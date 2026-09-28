@@ -49,7 +49,7 @@ const App = () => {
     companyName: "Apple",
     datePosted: "10 days ago",
     post: "iOS Engineer",
-    tag1: "Full Time",
+    tag1: "Part Time",
     tag2: "Senior Level",
     pay: "$85/hr",
     location: "Pune, India"
