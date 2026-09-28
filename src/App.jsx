@@ -10,7 +10,7 @@ const App = () => {
     datePosted: "5 days ago",
     post: "Frontend Developer",
     tag1: "Full Time",
-    tag2: "Junior Level",
+    tag2: "Intermediate Level",
     pay: "$45/hr",
     location: "Delhi, India"
   },
